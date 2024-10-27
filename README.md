@@ -6,7 +6,7 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
-Link to wait and bias account : https://wandb.ai/tzemuy13-university-of-southampton/projects
+Link to weight and bias account : https://wandb.ai/tzemuy13-university-of-southampton/projects
 
 link to the github repository : https://github.com/TesfayZ/build-ml-pipeline-for-short-term-rental-prices
 
